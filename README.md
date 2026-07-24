@@ -34,7 +34,8 @@ Before using this player, ensure you have the following installed on your system
 
 ### Option 2: Running from Source
 Run `python StreamlinkGUI.py` for English version or `python StreamlinkGUI_TR.py` for Turkish version.
-Note on Windows SmartScreen Warning:
+
+###Note on Windows SmartScreen Warning:
 
 Since this executable is a self-built open-source binary without an expensive Code Signing Certificate, Windows SmartScreen may show a "Windows protected your PC" prompt upon first launch.
 
