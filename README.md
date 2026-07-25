@@ -7,7 +7,7 @@ A lightweight, dark-themed GUI player for Streamlink built with Python (Tkinter)
 ## ✨ Features
 - 🌙 **Dark Mode GUI:** Modern, clean, and eye-friendly dark user interface.
 - ⚡ **Quick Launch:** Paste a stream URL and press Enter to start watching instantly.
-- ⭐️ **5 Quick Access Favorites:** Save your most-watched channels or streams and launch them with a single click.
+- ⭐️ **Quick Access Favorites:** Save your most-watched channels or streams and launch them with a single click.
 - ⚙️ **In-App Preset Editor:** Easily update favorite button labels and URLs directly from the UI.
 - 🔕 **Silent Execution:** Runs background processes cleanly without triggering extra CMD/console windows.
 - 📁 **Clean Single Executable:** Stores user preferences safely in Windows AppData (%APPDATA%), keeping your workspace clutter-free.
